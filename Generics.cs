@@ -1,5 +1,3 @@
-namespace CSharp_Assignment_4;
-
 public class Generics
 {
     class MyStack<T>
